@@ -4,63 +4,6 @@
   
     
     <entry>
-      <title>test</title>
-      <link href="/2022/04/09/test-1/"/>
-      <url>/2022/04/09/test-1/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>test</title>
-      <link href="/2022/04/09/test/"/>
-      <url>/2022/04/09/test/</url>
-      
-        <content type="html"><![CDATA[<p>s是人体是</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> 机器学习 </category>
-          
-      </categories>
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>My New Post</title>
-      <link href="/2022/04/09/my-new-post/"/>
-      <url>/2022/04/09/my-new-post/</url>
-      
-        <content type="html"><![CDATA[<p>第一次测试阿斯顿发a </p><p>kl;hbnjn;   as;lfja 阿里飞机啊拉设计费 sdaf </p><p>asdfa</p><p>asdf</p><p>asf</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> ML </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> scikit learn </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>Hello World</title>
       <link href="/2022/04/09/hello-world/"/>
       <url>/2022/04/09/hello-world/</url>
